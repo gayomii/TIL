@@ -32,7 +32,7 @@ console.log(person) // { name: "Hi" }
 
   
 
-### features
+### const, let features
 
 ___
 

@@ -10,7 +10,6 @@
 
   한 번 선언한 값은 변경 할 수 없다.
 
-\```{.javascript}
 
 ```javascript
 const name = "gayeon"
@@ -33,7 +32,7 @@ console.log(person) // { name: "Hi" }
 
   
 
-### features
+### const, let features
 
 ___
 

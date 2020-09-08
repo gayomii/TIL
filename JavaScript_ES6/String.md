@@ -74,7 +74,6 @@ const title = styled("h1")`
 
 ## String method
 
----
 
 - **includes()**
 
@@ -86,8 +85,7 @@ const title = styled("h1")`
   console.log(isEmail("gayeon@google.com")) //true
   ```
 
-  
-
+ 
 - **repeat()**
 
   : 원하는 어떤 글자든 반복할 수 있는 함수
@@ -97,7 +95,6 @@ const title = styled("h1")`
   const displayName = `${"*".repeat(5)}${CC_NUM}`
   console.log(displayName) //*****0000
   ```
-
 
 
 - **startsWith(), endsWith() ** 

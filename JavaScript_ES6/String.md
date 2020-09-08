@@ -72,6 +72,7 @@ const title = styled("h1")`
 
 
 
+
 ## String method
 
 
@@ -97,7 +98,7 @@ const title = styled("h1")`
   ```
 
 
-- **startsWith(), endsWith() ** 
+- **startsWith(), endsWith()** 
 
   : 해당 문자열로 시작하는지(끝나는지) 검사하는 함수
 

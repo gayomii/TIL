@@ -24,6 +24,7 @@ flex와 마찬가지로 부모 요소에 display: grid를 설정 해주면 부�
 
 
 
+
 ### Grid Container
 
 ---
@@ -121,6 +122,7 @@ grid-gap: 10px 20px;
 => start, center, end, stretch 값 지정 가능
 
 xxx-content는 grid-container 자체 정렬이고, xxx-items는 item들 하나하나의 정렬이다.
+
 
 
 

@@ -1,9 +1,11 @@
 # TIL (Today I Learned)
 
 ## start
-- 2020년 9월 7일 ~ 100일간 매일 공부한 내용을 기록합니다.
+- 2020년 9월 7일 ~ 100일간 매일 개발 공부하기
 
-## rules
-- 매일 공부한 것을 정리해서 기록하기
-- 프로젝트도 가능
+## contents
+- nomad coders's javascript ES6 lecture 내용 정리
+- leetcode 문제 풀기
+- 개인 portfolio 만들기
+- html, css 등 웹개발 관련 공부
 

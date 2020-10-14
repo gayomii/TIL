@@ -50,6 +50,7 @@ Database는 spreadSheet의 기능뿐만 아니라 자동화할 수 있는 장점
 
 https://db-engines.com/en/ranking
 
+<img width="699" alt="제목 없음2" src="https://user-images.githubusercontent.com/52454824/96006348-592e4100-0e78-11eb-83c1-171cd286aeca.png">
 
 
 데이터베이스는 Oracle, SQL과 같은 관계형 데이터베이스와, MongoDB와 같은 관계형 데이터베이스가 아닌 것으로 나누어져 있다.
